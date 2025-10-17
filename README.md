@@ -1,1 +1,1 @@
-"# JeansE-commerce1" 
+Product Catalog–A full-stack web app built with Node.js, Express, MongoDB, Mongoose, React, Redux, Tailwind CSS, and PostCSS. Users can browse, like, and add products to cart. Backend handles data via Express & MongoDB, frontend uses React with Redux for state management.
